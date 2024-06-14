@@ -41,7 +41,8 @@ The main window, along with a suite of labels, entry widgets, and buttons, are c
 (Information on how others can contribute to the project. Let's build this clock together! 🤝)
 
 ## 📜 License
-(This project is released under the MIT License. See the LICENSE file for details❤️.)
+(Include details about the license under which the project is released. Share the love! ❤️)
+
 
 
 
