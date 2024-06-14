@@ -21,13 +21,6 @@ Before you begin, ensure you have met the following requirements:
   - `pygame`: Install via pip with `pip install pygame`.
   - `Pillow`: Install via pip with `pip install Pillow`.
 
- ## Installation
-
-To run this project, you'll need to install the following libraries:
-
-```bash
-pip install pygame
-pip install Pillow
 
 # ⏰ Alarm Clock Application
 
@@ -62,6 +55,5 @@ The main window, along with a suite of labels, entry widgets, and buttons, are c
 
 ## 📜 License
 (Include details about the license under which the project is released. Share the love! ❤️)
-
 
 
