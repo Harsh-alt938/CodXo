@@ -20,3 +20,14 @@ Before you begin, ensure you have met the following requirements:
   - `tkinter`: Comes pre-installed with Python. Verify by running `python -m tkinter` in your terminal.
   - `pygame`: Install via pip with `pip install pygame`.
   - `Pillow`: Install via pip with `pip install Pillow`.
+
+ ## Installation
+
+To run this project, you'll need to install the following libraries:
+
+```bash
+pip install pygame
+pip install Pillow
+
+
+
