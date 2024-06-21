@@ -2,6 +2,11 @@
 
 This is a simple command-line game where the program generates a random number between 1 and 100, and the player needs to guess the number. The program will provide feedback on whether the player's guess is too high or too low until the correct number is guessed. 🔢
 
+## Screenshots
+
+![Application Demo](output1.jpg) ![Application Demo](output2.jpg)
+![Application Demo](output3.jpg) ![Application Demo](output4.jpg)
+
 ## Getting Started 🚀
 
 To play the game, follow these steps:
