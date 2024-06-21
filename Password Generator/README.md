@@ -7,6 +7,11 @@ Welcome to the Password Generator App! This simple yet powerful tool can help yo
 
 Harsh Bhardwaj has developed this handy application to ensure your digital security. With a user-friendly interface built using Tkinter, generating a password has never been easier or more fun!
 
+## Screenshots
+
+![Application Demo](output1.jpg)
+![Application Demo](output2.jpg)
+
 ## Features 🌟
 
 - **Simple Interface**: The app features a clean and intuitive interface that is easy on the eyes and straightforward to use.
