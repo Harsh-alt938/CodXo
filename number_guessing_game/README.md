@@ -5,7 +5,8 @@ This is a simple command-line game where the program generates a random number b
 ## Screenshots
 
 ![Application Demo](output1.jpg) ![Application Demo](output2.jpg)
-![Application Demo](output3.jpg) ![Application Demo](output4.jpg)
+![Application Demo](output3.jpg) ![Application Demo](output5.jpg)
+![Application Demo](output4.jpg)
 
 ## Getting Started 🚀
 
