@@ -12,8 +12,8 @@ This is a simple alarm clock application built using Python and the Tkinter libr
 
 ## Screenshots
 
-![Application Demo](output1.jpg) ![Application Demo](output2.jpg)
-
+![Application Demo](output1.jpg) 
+![Application Demo](output2.jpg)
 
 ## 🌟 Overview
 This application serves as a customizable alarm clock, allowing users to set alarms for specific times and dates. It features a user-friendly interface built with Tkinter and sound functionalities powered by Pygame, ensuring you never miss a beat!
